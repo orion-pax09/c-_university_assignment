@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd8d922c-26db-4c06-b3a1-496692942b3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2502941_SE_A_Q6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2502941_SE_A_Q7.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/Lab Task 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/container with most water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/grade and percentage marks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/median.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/median_sum_triplet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/permutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my project/phone_letter combination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_project/leetcode_problem/permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_project/leetcode_problem/permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../validations" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="33bmmaya0uk95WOOxGvMl4vekgo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd8d922c-26db-4c06-b3a1-496692942b3f" name="Changes" comment="" />
+      <created>1759594305292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759594305292</updated>
+      <workItem from="1759594306607" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
